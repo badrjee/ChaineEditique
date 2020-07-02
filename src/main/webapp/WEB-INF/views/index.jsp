@@ -65,7 +65,7 @@
       <input type="text" class="form-control" name="transactionAmount" placeholder="Montant">
     </div>
     <div class="form-group col-md-4">
-      <input type="text" class="form-control" name="date" placeholder="Date">
+      <input type="date" class="form-control" name="date" placeholder="Date">
     </div>
   </div>
   
